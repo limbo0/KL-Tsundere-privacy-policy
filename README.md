@@ -1,9 +1,8 @@
 # Privacy Policy — KhewaLabs
 
-> **Before publishing this anywhere**: this is a draft written to accurately reflect your actual data architecture (WhatsApp Business Platform, Supabase, Razorpay, Firebase) — it is not legal advice. Have it reviewed by a lawyer familiar with India's DPDP Act 2023 before it goes live, and fill in every `[ ]` placeholder with real details first.
 
-**Effective date**: `[DATE]`
-**Last updated**: `[DATE]`
+**Effective date**: `19/07/2026`
+**Last updated**: `19/07/2026`
 
 ## 1. Introduction
 
